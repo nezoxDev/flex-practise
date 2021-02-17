@@ -1,0 +1,10 @@
+.columns{
+	display: block;
+}
+
+.verticals{
+	display: block;
+}
+.vertical__item{
+	margin-top: 30px;
+}

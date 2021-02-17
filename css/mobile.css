@@ -1,0 +1,30 @@
+
+
+.hello{
+	flex-direction: column;
+	align-items: center;
+}
+
+.hello__list{
+	margin-bottom: 20px;
+}
+
+.what{
+	flex-direction: column;
+	align-items: center;
+	
+}
+.what__content{
+	margin-top: 30px;
+	margin-left: 0px;
+}
+
+
+@media(max-width: 378px){
+	.l-heading{
+		font-size: 40px;
+	}
+	.list__item{
+		font-size: 16px;
+	}
+}
